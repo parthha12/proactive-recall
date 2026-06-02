@@ -1,3 +1,4 @@
+> **⚠️ Archived — moved to [parthha12/jot/engine](https://github.com/parthha12/jot/tree/main/engine).** Clone the Jot monorepo instead.
 
 <p align="center">
    <a href ="https://screenpi.pe">
